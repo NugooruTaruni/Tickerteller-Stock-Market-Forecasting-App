@@ -58,7 +58,7 @@ The web application was built using **Streamlit** to display the results of tech
 
 ### 1. Clone the Repository:
 
-git clone https://github.com/your-username/amazon-financial-analysis.git
+git clone  https://github.com/NugooruTaruni/Tickerteller-Stock-Market-Forecasting-App.git
 cd amazon-financial-analysis
 
 ### 2. Install Dependencies:
